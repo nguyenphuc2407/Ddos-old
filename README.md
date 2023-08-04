@@ -14,7 +14,7 @@
 * Anh Em Nào Biết Dùng Termux Rồi Thì Dùng!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Anh Em Nhập Lệnh Vô Là Nó Chạy Nhé
-* ```git clone https://github.com/Nguyenem21/Doss.github.io```
+* ```git clone https://github.com/nguyenphuc2407/Ddos-old```
 * ```cd Doss.github.io``` 
 * ``` sh npn.sh``` 
 
